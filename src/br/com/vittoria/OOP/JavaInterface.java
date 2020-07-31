@@ -1,5 +1,7 @@
 package br.com.vittoria.OOP;
 
+import java.util.Scanner;
+
 /**
  * @author Vittoria Borotto
  *

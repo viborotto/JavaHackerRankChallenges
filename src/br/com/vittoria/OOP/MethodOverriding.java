@@ -6,7 +6,6 @@ package br.com.vittoria.OOP;
  */
 public class MethodOverriding {
 
-    import java.util.*;
     class Sports{
 
         String getName(){

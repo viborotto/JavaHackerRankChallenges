@@ -1,5 +1,8 @@
 package br.com.vittoria.OOP;
 
+import java.util.ArrayList;
+import java.util.Scanner;
+
 /**
  * @author Vittoria Borotto
  *
@@ -16,7 +19,6 @@ public class Iterator{
         return it;
 
     }
-    @SuppressWarnings({ "unchecked" })
     public static void main(String []args){
         ArrayList mylist = new ArrayList();
         Scanner sc = new Scanner(System.in);
