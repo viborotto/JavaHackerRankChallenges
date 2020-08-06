@@ -2,7 +2,7 @@
 
 Resolução dos desafios de Java do HackerRank subdivididos em: Introduction, Strings, Data Structures, Object Oriented Programming, Exception Handling and Advanced
 
-### (pt) Bem vindx as soluçōes da trilha Java do HackerRank
+###  Bem vindx as soluçōes da trilha Java do HackerRank
 
 A ideia desse repositorio é não somente compartilhar as soluçōes dos exercicios que estou completando ao longo do tempo mas incentiva-los a começar e comentar o que quiser.
 
@@ -10,7 +10,7 @@ A ideia desse repositorio é não somente compartilhar as soluçōes dos exercic
 
 ...
 
-### (en) Welcome to the Java tack solutions from HackerRank
+### :us: Welcome to the Java tack solutions from HackerRank
 
 The idea of this repository is not only to share the solutions to the exercises that I am completing over time but to encourage you to start and comment as you please.
 
