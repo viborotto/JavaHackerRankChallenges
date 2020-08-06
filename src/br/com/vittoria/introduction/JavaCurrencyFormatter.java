@@ -10,6 +10,7 @@ import java.util.Scanner;
  */
 public class JavaCurrencyFormatter {
 
+    //NOTE: if you don't know NumberFormat it's worth researching it is an excellent class to explore international resources
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double payment = scanner.nextDouble();

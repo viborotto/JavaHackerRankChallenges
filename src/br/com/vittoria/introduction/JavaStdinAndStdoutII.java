@@ -8,6 +8,7 @@ import java.util.Scanner;
  */
 public class JavaStdinAndStdoutII {
 
+    //NOTE: Input an int, double and string, after that print respective values
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int i = scan.nextInt();

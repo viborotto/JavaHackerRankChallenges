@@ -8,6 +8,7 @@ import java.util.Scanner;
  */
 public class JavaLoopsII {
 
+    //NOTE: here the logic is based in an series, check the statement to explain more clearly
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);
         int t=in.nextInt();

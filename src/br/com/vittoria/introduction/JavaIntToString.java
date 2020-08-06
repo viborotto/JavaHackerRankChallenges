@@ -7,6 +7,6 @@ package br.com.vittoria.introduction;
 public class JavaIntToString {
 
     int n;
-
+    //NOTE: use String method valueOf()
     String s = String.valueOf(n);
 }

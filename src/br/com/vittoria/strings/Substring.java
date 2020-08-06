@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Substring {
 
+    //NOTE: slice input string with substring
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String S = in.next();

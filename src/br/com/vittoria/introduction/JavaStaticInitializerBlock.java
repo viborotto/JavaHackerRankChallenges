@@ -8,6 +8,7 @@ import java.util.Scanner;
  */
 public class JavaStaticInitializerBlock {
 
+    //NOTE: use static block for try and catch, to calculate area of a paralelogram
     static Scanner input = new Scanner(System.in);
     static boolean flag = true;
     static int B = input.nextInt();

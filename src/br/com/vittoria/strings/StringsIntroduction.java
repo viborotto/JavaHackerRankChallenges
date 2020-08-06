@@ -11,6 +11,7 @@ public class StringsIntroduction {
 
     public static void main(String[] args) {
 
+        //NOTE: substring for manipulated strings and slice this.
         Scanner sc=new Scanner(System.in);
         String A=sc.next();
         String B=sc.next();
@@ -19,7 +20,7 @@ public class StringsIntroduction {
         String output = A.substring(0, 1).toUpperCase() + A.substring(1) + " " + B.substring(0, 1).toUpperCase() + B.substring(1);
 
         System.out.println(len);
-        System.out.println(A.compareTo(B)>0?"Yes":"No");
+        System.out.println(A.compareTo(B)>0 ? "Yes" : "No");
         System.out.println(output);
     }
 }

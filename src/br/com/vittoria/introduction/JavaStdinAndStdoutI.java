@@ -7,6 +7,7 @@ import java.util.*;
  */
 public class JavaStdinAndStdoutI {
 
+    //NOTE: Input with Scanner and print respective stdin
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();

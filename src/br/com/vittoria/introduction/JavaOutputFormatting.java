@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class JavaOutputFormatting {
 
-
+    //NOTE: Input and string and number, that will be separeted by an regular expression, and if the number have 2 digits so add a zero before like that: 060
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("================================");
