@@ -36,6 +36,8 @@ The idea of this repository is not only to share the solutions to the exercises 
 | [BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | [JavaBigInteger.java](https://github.com/viborotto/JavaHackerRankChallenges/blob/master/src/br/com/vittoria/bignumber/JavaBigInteger.java) |
 | [Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [JavaPrimalityTest.java](https://github.com/viborotto/JavaHackerRankChallenges/blob/master/src/br/com/vittoria/bignumber/JavaPrimalityTest.java) |
 | [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem) | [JavaExceptionHandling.java](https://github.com/viborotto/JavaHackerRankChallenges/blob/master/src/br/com/vittoria/exceptionhandling/JavaExceptionHandling.java) |
+| [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Java1DArray.java](https://github.com/viborotto/JavaHackerRankChallenges/blob/master/src/br/com/vittoria/data_structure/Java1DArray.java) |
+| [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | []() |
 
 |[[POO | OOP Challenges]](https://github.com/viborotto/JavaHackerRankChallenges/tree/master/src/br/com/vittoria/OOP)|
 
